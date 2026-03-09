@@ -1,0 +1,1 @@
+SELECT * FROM `bellabeat-case-study-487903.leaf.retention_behavior_analysis`
