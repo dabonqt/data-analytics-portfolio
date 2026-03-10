@@ -1,0 +1,4 @@
+retention_segment,users_in_segment,avg_steps,avg_active_minutes,avg_sedentary_minutes,sleep_record_count,avg_sleep_efficiency
+High Consistency,29,8089.6208611971751,24.15372696134413,807.472272060023,12078,0.91703884707012251
+Moderate Consistency,3,9160.8543689320413,13.6504854368932,749.33980582524248,270,0.910370366940799
+Low Consistency,1,3838.0,0.75,1217.25,0,0.0
