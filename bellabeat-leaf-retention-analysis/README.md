@@ -77,7 +77,3 @@ The raw dataset was cleaned and transformed using SQL. The aggregated dataset us
 - Provide early onboarding challenges to encourage habit formation.
 - Send activity reminders to users with declining tracking behavior.
 
----
-
-## Project Structure
-
