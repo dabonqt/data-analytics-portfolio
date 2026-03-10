@@ -1,7 +1,15 @@
-# Bellabeat Leaf Retention Analysis
+# SQL Analysis
 
-Author: Davon Mendoza
+This folder contains the SQL queries used to clean, transform, and analyze the Bellabeat dataset using Google BigQuery.
 
-Tool: Google BigQuery
+Key SQL processes include:
 
-Purpose: Analyze user tracking consistency and behavioral engagement
+- Data cleaning and formatting
+- Joining activity and sleep datasets
+- Creating a retention proxy based on tracking consistency
+- Segmenting users by engagement level
+- Aggregating behavioral metrics for visualization
+
+Main file:
+
+retention_behavior_analysis.sql
