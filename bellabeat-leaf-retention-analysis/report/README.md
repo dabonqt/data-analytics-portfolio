@@ -1,4 +1,5 @@
 #Bellabeat Leaf Retention Analysis
+
 ##Project Overview
 
 This project analyzes smart device usage data to identify behavioral patterns among users who consistently track their activity using the Bellabeat Leaf wearable device.
