@@ -11,7 +11,7 @@ WITH monthly_trend AS(
   GROUP BY 1
 ),
 
-  monthly_with_lag AS(
+monthly_with_lag AS(
     SELECT
       *,
     LAG(monthly_sales) OVER (ORDER BY month) AS prev_month_sales,
