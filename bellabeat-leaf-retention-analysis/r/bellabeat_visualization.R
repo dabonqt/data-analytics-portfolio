@@ -1,10 +1,8 @@
-# -----------------------------------------------------------
 # Bellabeat Leaf Retention Analysis - Visualization Script
 # Author: Davon Mendoza
 # Purpose: Visualize behavioral differences across retention segments
 # Tools: R, ggplot2, tidyverse
 # Dataset Source: BigQuery aggregated results
-# -----------------------------------------------------------
 
 
 # -----------------------------------------------------------
