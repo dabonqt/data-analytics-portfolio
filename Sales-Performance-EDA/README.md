@@ -15,4 +15,4 @@ and which categories, regions, and segments are most at risk?
 - South: sales grew 31.5% in 2014 while profit fell 49.9%
 
 ## Dashboard
-[https://public.tableau.com/views/SuperstoreSalesEDADiscountImpactRegionalProfitabilityAnalysisSQLTableau/SuperstoreSalesEDAFullAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
+https://public.tableau.com/views/SuperstoreSalesEDADiscountImpactRegionalProfitabilityAnalysisSQLTableau/SuperstoreSalesEDAFullAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
