@@ -5,7 +5,7 @@ Superstore Sales EDA — Discount Impact & Profitability Analysis
 BigQuery SQL | Tableau | Google Sheets
 
 ## Business Question
-Is the company's discount strategy hurting profitability —
+Is the company's discount strategy hurting profitability, 
 and which categories, regions, and segments are most at risk?
 
 ## Key Findings
