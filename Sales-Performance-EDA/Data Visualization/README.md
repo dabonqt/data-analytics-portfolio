@@ -115,4 +115,3 @@ The Regional Sales vs Profit Growth Rate chart contains an extreme outlier — C
 | **Google BigQuery** | SQL analysis and query output export |
 | **Tableau Desktop** | Dashboard design and chart construction |
 | **Tableau Public** | Publishing and portfolio sharing |
-
