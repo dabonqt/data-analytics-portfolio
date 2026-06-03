@@ -14,7 +14,7 @@ This folder contains screenshots of the three Tableau dashboards built for the *
 
 **Phase 2 of 4 | Source: `year_over_year_revenue_growth.sql`, `month_over_month_revenue_growth_trend.sql`, `average_annual_sales_for_month.sql`**
 
-![Dashboard 1 – Revenue & Growth Trends](charts/D1_Revenue_&_Growth_Trends.png)
+![Dashboard 1 – Revenue & Growth Trends](D1_Revenue_&_Growth_Trends.png)
 
 ### What this dashboard shows
 
