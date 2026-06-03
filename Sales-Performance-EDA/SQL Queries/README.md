@@ -27,7 +27,7 @@ SQL queries/
 │   ├── what_if_estimate.sql
 │   └── revenue_vs_profit_category_comparison.sql
 │
-└── Region & Segment Performance/
+└── Region & Segment Performance Analysis/
     ├── profit_and_sales_per_region.sql
     ├── profit_and_sales_per_customer_segment.sql
     ├── region_segment_performance.sql
@@ -118,7 +118,7 @@ Aggregates sales, profit, and margin at the category level. Uses `RANK()` twice 
 
 ---
 
-## Phase 4 — Region & Segment Performance
+## Phase 4 — Region & Segment Performance Analysis
 
 Scripts that add geographic and customer-type dimensions to the profitability story established in Phase 3.
 
