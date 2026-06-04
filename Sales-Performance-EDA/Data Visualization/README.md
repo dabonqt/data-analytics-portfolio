@@ -3,7 +3,7 @@
 This folder contains screenshots of the three Tableau dashboards built for the **Superstore Sales EDA** project. All dashboards were designed in Tableau Desktop and published as a connected Story on Tableau Public.
 
 **🔗 View the live interactive dashboard:**
-[Superstore Sales EDA — Full Analysis on Tableau Public](https://public.tableau.com/views/SuperstoreSalesEDADiscountImpactRegionalProfitabilityAnalysisSQLTableau/SuperstoreSalesEDAFullAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Superstore Sales EDA — Full Analysis on Tableau Public](https://public.tableau.com/views/Sales_Performance_EDAv_2_2_4/SuperstoreSalesEDAFullAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 > The interactive version includes live filters, hover tooltips, and full story navigation. The screenshots below are static previews only.
 
